@@ -52,7 +52,7 @@ export const ROSTER_BY_COACH = {
     "Némésis": ROSTER_LIST.DW,
     "frd": ROSTER_LIST.WE,
     "Akol": ROSTER_LIST.AMA,
-    "Yaouch": ROSTER_LIST.EDC,
+    "Yaouch": ROSTER_LIST.KHO,
     "Grumly": ROSTER_LIST.VAM,
     "Moby": ROSTER_LIST.EN,
     "Shkeil": ROSTER_LIST.ON,
