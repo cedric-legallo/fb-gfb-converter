@@ -13,7 +13,7 @@ Cela vous fournit un fichier nommé GFB-S44-[TIMESTAMP].csv à sauvegarder à la
 ## Conversion pour l'outil interne du FB
 
  * Ouvrir un terminal avec Node.js à la racine du dossier
- * Lancer la commande node converter --file=GFB-S44-[TIMESTAMP].csv
+ * Lancer la commande : node converter --file=GFB-S44-[TIMESTAMP].csv
  * La commande génère :
    * Un fichier result-gfb-all.csv (pas utilisé pour le moment)
    * Un fichier result-gfb-J[X].csv par journée de championnat déjà jouée (à envoyer à Papatte)

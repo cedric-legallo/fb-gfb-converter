@@ -71,9 +71,12 @@ export const ROSTER_BY_COACH = {
     "LoKKhaR": ROSTER_LIST.REN,
     "Ysiel": ROSTER_LIST.HU,
     "Pinguins": ROSTER_LIST.VAM,
-    "Démosthène": ROSTER_LIST.HUM,
+    "Démosthène": ROSTER_LIST.HU,
     "Bartabaf": ROSTER_LIST.AMA,
     "Paladin": ROSTER_LIST.VAM,
     "Seb27": ROSTER_LIST.ORC,
     "LPOW06": ROSTER_LIST.NEC,
+    "LukeCage": ROSTER_LIST.NUR,
+    "Sebotouno": ROSTER_LIST.EDC,
+    "Yo": ROSTER_LIST.ON,
 }
