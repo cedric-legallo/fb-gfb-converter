@@ -3,6 +3,7 @@ appariements.txt
 result-gfb-all.csv
 result-gfb-J*.csv
 GFB-*.csv
+!exports/GFB-*.csv
 stat-*.csv
 
 # Logs
