@@ -22,6 +22,7 @@ Cela vous fournit un fichier nommé GFB-S44-[TIMESTAMP].csv à sauvegarder à la
 ## Récupération des stats par journée
  * Télécharger l'export JBB de la journée N-1 et stocker le dans le dossier exports
  * Télécharger l'export JBB de la journée N et stocker le dans le dossier exports
+ * Si un nom d'équipe contient le caractère "," (ex: La Mort, C'est La Vie), le remplacer par ":"
  * Ouvrir un terminal avec Node.js à la racine du dossier
  * Lancer la commande node statJournée -J=N ou N est le numéro de la journée à extraire
  * La commande génère un fichier stat-JN.csv

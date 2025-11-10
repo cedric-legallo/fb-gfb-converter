@@ -76,7 +76,7 @@ export const ROSTER_BY_COACH = {
     "Paladin": ROSTER_LIST.VAM,
     "Seb27": ROSTER_LIST.ORC,
     "LPOW06": ROSTER_LIST.NEC,
-    "LukeCage": ROSTER_LIST.NUR,
+    "Lukecage": ROSTER_LIST.NUR,
     "Sebotouno": ROSTER_LIST.EDC,
     "Yo": ROSTER_LIST.ON,
 }
