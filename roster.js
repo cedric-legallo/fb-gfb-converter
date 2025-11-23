@@ -31,8 +31,8 @@ export const ROSTER_BY_COACH = {
     "Kanwulf": ROSTER_LIST.ORC,
     "Grimdark": ROSTER_LIST.HL,
     "Silsei": ROSTER_LIST.VAM,
-    "Kos": ROSTER_LIST.HU,
-    "Papatte": ROSTER_LIST.VAM,
+    "Kos": ROSTER_LIST.DW,
+    "Papatte": ROSTER_LIST.KHO,
     "Petit lutin": ROSTER_LIST.VAM,
     "jojolafrite": ROSTER_LIST.VAM,
     "Wilhelm": ROSTER_LIST.ORC,
@@ -79,4 +79,9 @@ export const ROSTER_BY_COACH = {
     "Lukecage": ROSTER_LIST.NUR,
     "Sebotouno": ROSTER_LIST.EDC,
     "Yo": ROSTER_LIST.ON,
+    "Merlin": ROSTER_LIST.AMA,
+    "Ogres": ROSTER_LIST.AMA,
+    "Tinuks": ROSTER_LIST.TBD,
+    "Ermite Violet": ROSTER_LIST.DW
+
 }
