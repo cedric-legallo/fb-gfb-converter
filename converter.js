@@ -14,6 +14,11 @@ for await (const line of file.readLines()) {
         currentMatch = 0
         days[currentDay] = []
         days[currentDay][currentMatch] = `J${currentDay}`
+    } else if (line.startsWith('Round')) {
+        currentDay = parseInt(line.charAt(6))
+        currentMatch = 0
+        days[currentDay] = []
+        days[currentDay][currentMatch] = `J${currentDay}`
     } else if (currentDay) {
         if (line.startsWith(';')) {
             last = false

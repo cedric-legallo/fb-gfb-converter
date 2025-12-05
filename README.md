@@ -19,21 +19,18 @@ Cela vous fournit un fichier nommé GFB-S44-[TIMESTAMP].csv à sauvegarder à la
    * Un fichier result-gfb-J[X].csv par journée de championnat déjà jouée (à envoyer à Papatte)
    * Un fichier appariements.txt avec la liste des matchs pour la dernièer journée (à générer après le lancement de la ronde suivante)
 
-## Récupération des stats par journée
- * Télécharger l'export JBB de la journée N-1 et stocker le dans le dossier exports
- * Télécharger l'export JBB de la journée N et stocker le dans le dossier exports
- * Si un nom d'équipe contient le caractère "," (ex: La Mort, C'est La Vie), le remplacer par ":"
- * Ouvrir un terminal avec Node.js à la racine du dossier
- * Lancer la commande node statJournée -J=N ou N est le numéro de la journée à extraire
- * La commande génère un fichier stat-JN.csv
- * Uploader le fichier dans le drive de Papatte FrancoBowl-Resultat-S44 onglet GFB-Journéees
+## ~~Récupération des stats par journée~~
+ * ~~Télécharger l'export JBB de la journée N-1 et stocker le dans le dossier exports~~
+ * ~~Télécharger l'export JBB de la journée N et stocker le dans le dossier exports~~
+ * ~~Si un nom d'équipe contient le caractère "," (ex: La Mort, C'est La Vie), le remplacer par ":"~~
+ * ~~Ouvrir un terminal avec Node.js à la racine du dossier~~
+ * ~~Lancer la commande node statJournée -J=N ou N est le numéro de la journée à extraire~~
+ * ~~La commande génère un fichier stat-JN.csv~~
+ * ~~Uploader le fichier dans le drive de Papatte FrancoBowl-Resultat-S44 onglet GFB-Journéees~~
 
 ## Nouveau tour
  * Lancer la nouvelle ronde sur larondesuisse
  * Récupérer les données comme expliqué ci-dessus
  * Convertir les données comme expliqué ci-dessus
  * Publier appariements.txt sur le discord en taggant les coachs @Coachs - GFB
- * Récupérer les stats par journée comme expliqué ci-dessus
-
-
-
+ * ~~Récupérer les stats par journée comme expliqué ci-dessus~~

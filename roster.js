@@ -81,7 +81,8 @@ export const ROSTER_BY_COACH = {
     "Yo": ROSTER_LIST.ON,
     "Merlin": ROSTER_LIST.AMA,
     "Ogres": ROSTER_LIST.AMA,
-    "Tinuks": ROSTER_LIST.TBD,
-    "Ermite Violet": ROSTER_LIST.DW
-
+    "Tinuks": ROSTER_LIST.HU,
+    "Ermite Violet": ROSTER_LIST.DW,
+    "Lady La Fay": ROSTER_LIST.NUR,
+    "Pqck": ROSTER_LIST.ON,
 }
