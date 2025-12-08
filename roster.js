@@ -47,7 +47,7 @@ export const ROSTER_BY_COACH = {
     "Rob-inet": ROSTER_LIST.NOB,
     "Ouarzy": ROSTER_LIST.SKA,
     "Jibz74": ROSTER_LIST.UE,
-    "Rookiz": ROSTER_LIST.VAM,
+    "Rookiz": ROSTER_LIST.EN,
     "Sethi": ROSTER_LIST.REN,
     "Némésis": ROSTER_LIST.DW,
     "frd": ROSTER_LIST.WE,
